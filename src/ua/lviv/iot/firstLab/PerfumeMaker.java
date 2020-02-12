@@ -7,9 +7,9 @@ public class PerfumeMaker {
 		Perfume SecondPerfume = new Perfume("Giorgio Armani", 500, 200, "aldehyde");
 		Perfume ThirdPerfume = new Perfume("Calvin Klein", 650, 200, "aquatic", "Japan", "orange", "unisex");
 
-		System.out.println(FirstPerfume);// .toString());
-		System.out.println(SecondPerfume);// .toString());
-		System.out.println(ThirdPerfume);// .toString());
+		System.out.println(FirstPerfume);
+		System.out.println(SecondPerfume);
+		System.out.println(ThirdPerfume);
 
 		System.out.println();
 
